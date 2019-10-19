@@ -893,7 +893,7 @@ IG_UI_CN = {
     IGUI_Beard_LongScruffy = "邋遢长胡子",
     IGUI_Beard_Goatee = "山羊胡",
     IGUI_Hair_CrewCut = "平头",
-    IGUI_Hair_Recede = "秃头",
+    IGUI_Hair_Recede = "Recede",
     IGUI_Beard_None = "没有胡须",
     IGUI_Hair_PonyTail = "小马尾辫",
     IGUI_FilterAll = "全部过滤",
@@ -909,4 +909,5 @@ IG_UI_CN = {
     IGUI_char_BeardStyle = "胡子类型",
     IGUI_Hair_Long2 = "长发",
     IGUI_XP_Protection = "防御",
+    IGUI_Hair_Bald = "光头",
 }
