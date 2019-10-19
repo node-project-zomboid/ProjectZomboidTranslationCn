@@ -772,8 +772,8 @@ IG_UI_CN = {
     IGUI_VehicleLightbar_STANDBY = "STANDBY",
     IGUI_VehicleLightbar_WALL = "WALL",
     IGUI_VehicleLightbar_YELP = "YELP",
-    IGUI_Vehicle_SeatOccupied = "座椅被占用",
-    IGUI_PlayerText_CanNotExitFromMovingCar = "我不能离开一辆正在行驶的汽车。",
+    IGUI_Vehicle_SeatOccupied = "这里已经有人了",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "这车还在开，我不可能现在下车",
     IGUI_ConfirmLeaveGame = "离开游戏？",
     IGUI_VehicleNameModernCar = "Dash Elite",
     IGUI_VehicleNameModernCar02 = "Chevalier Primani",
@@ -908,5 +908,4 @@ IG_UI_CN = {
     IGUI_Hair_Bun = "圆发髻",
     IGUI_char_BeardStyle = "胡子类型",
     IGUI_Hair_Long2 = "长发",
-    IGUI_XP_Protection = "防御",
 }
