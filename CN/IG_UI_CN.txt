@@ -908,4 +908,5 @@ IG_UI_CN = {
     IGUI_Hair_Bun = "圆发髻",
     IGUI_char_BeardStyle = "胡子类型",
     IGUI_Hair_Long2 = "长发",
+    IGUI_XP_Protection = "防御",
 }
