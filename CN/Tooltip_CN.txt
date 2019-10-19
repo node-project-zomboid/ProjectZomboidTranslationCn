@@ -210,7 +210,7 @@ Tooltip_CN = {
     Tooltip_EquipFirst = "需要穿上。",
     Tooltip_CombatSpeed = "战斗速度",
     Tooltip_weapon_NoClip = "没有足够子弹来使用",
-    Tooltip_RunSpeedModifier = "运行速度修改器",
-    Tooltip_CombatSpeedModifier = "战斗速度修改",
+    Tooltip_RunSpeedModifier = "移动速度影响",
+    Tooltip_CombatSpeedModifier = "战斗速度影响",
     Tooltip_requireRazorOrScissors = "需要剃刀或剪刀;",
 }
