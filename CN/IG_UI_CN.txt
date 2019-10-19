@@ -883,6 +883,7 @@ IG_UI_CN = {
     IGUI_Hair_OverEye = "眼睛上方",
     IGUI_char_HairStyle = "发型 ",
     IGUI_RequiresWaterSupply = "需要水源。",
+	IGUI_perks_SmallBlunt = "短钝器",
     IGUI_perks_SmallBlade = "短刀",
     IGUI_perks_Spear = "木矛",
     IGUI_perks_LongBlade = "长刀",
